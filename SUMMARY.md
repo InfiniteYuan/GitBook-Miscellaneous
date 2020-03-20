@@ -17,8 +17,8 @@
 
 ## 方案
 
-* [一种基于Wi-Fi Mesh的分布式智能音箱控制系统](fang-an/untitled.md)
-* [一种基于Wi-Fi Mesh的分布式语音控制系统及控制方法](fang-an/untitled-1.md)
+* [一种基于 Wi-Fi Mesh 的分布式智能音箱控制系统](fang-an/untitled.md)
+* [一种基于 Wi-Fi Mesh 的分布式语音控制系统及控制方法](fang-an/untitled-1.md)
 
 ## Tensorflow
 
