@@ -4,11 +4,11 @@
 
 ## ESP32 Hardware
 
-* [Secure Boot 与 Flash Encryption](esp32-hardware/untitled.md)
+* [Secure Boot 与 Flash Encryption](esp32-hardware/secure-boot-flash-encryption.md)
 
 ## ESP32 低功耗
 
-* [ESP32 低功耗方案](first.md)
+* [ESP32 低功耗方案](esp32-low-power/esp32-low-power-solution.md)
 
 ## AWS IOT
 
@@ -17,11 +17,11 @@
 
 ## 方案
 
-* [一种基于 Wi-Fi Mesh 的分布式智能音箱控制系统](fang-an/untitled.md)
-* [一种基于 Wi-Fi Mesh 的分布式语音控制系统及控制方法](fang-an/untitled-1.md)
+* [一种基于 Wi-Fi Mesh 的分布式智能音箱控制系统](esp32-patent/Wi-Fi-Mesh-based-distributed-intelligent-speaker-control-system.md)
+* [一种基于 Wi-Fi Mesh 的分布式语音控制系统及控制方法](esp32-patent/Wi-Fi-Mesh-based-distributed-voice-control-system-and-control-method.md)
 
 ## Tensorflow
 
-* [ESP32 & Tensorflow](tensorflow/untitled.md)
-* [TensorFlow Lite - Hello World](tensorflow/untitled-1.md)
+* [ESP32 & Tensorflow](esp32-tensorflow/esp32-tensorflow.md)
+* [TensorFlow Lite - Hello World](esp32-tensorflow/tensorflow-lite-hello-world.md)
 
