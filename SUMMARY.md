@@ -2,6 +2,10 @@
 
 * [ESP32Catalog](README.md)
 
+## ESP32 Hardware
+
+* [index](esp32-hardware/untitled.md)
+
 ## ESP32 低功耗
 
 * [ESP32 低功耗方案](first.md)
