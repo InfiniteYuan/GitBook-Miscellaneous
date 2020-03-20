@@ -4,7 +4,7 @@
 
 ## ESP32 Hardware
 
-* [index](esp32-hardware/untitled.md)
+* [Secure Boot 与 Flash Encryption](esp32-hardware/untitled.md)
 
 ## ESP32 低功耗
 
