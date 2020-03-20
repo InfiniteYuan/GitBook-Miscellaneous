@@ -1,6 +1,6 @@
 # Table of contents
 
-* [ESP32Catalog](README.md)
+* [ESP32 Catalog](README.md)
 
 ## ESP32 Hardware
 
